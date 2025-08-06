@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quasarshop.shop/sitemap.xml
